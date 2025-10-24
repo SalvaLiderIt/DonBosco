@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="M25013">
     <body>
       <group id="body">
+        <trans-unit id="Report 2498396487 - ReportLabel 1203245226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº Factura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PropioReport - ReportLabel NFact</note>
+        </trans-unit>
         <trans-unit id="Report 3495856913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Informe de Factura de Venta</source>
           <note from="Developer" annotates="general" priority="2"></note>

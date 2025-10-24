@@ -3,7 +3,7 @@ report 50100 "Sales Invoice Report"
     Caption = 'Informe de Factura de Venta';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    RDLCLayout = 'layout/SalesInvoiceReport.rdlc'; // Lo crearemos más adelante
+    RDLCLayout = 'layout/SalesInvoiceReport.rdlc';
     Permissions = tabledata "Sales Invoice Header" = R,
                   tabledata "Sales Invoice Line" = R;
 
