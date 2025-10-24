@@ -1,7 +1,7 @@
 {
-  "id": "8fa2fe5d-3172-451f-bf89-f686976eada8",
+  "id": "e4aa3470-4303-4643-b868-4481f77a8325",
   "name": "M25013",
-  "publisher": "Default Publisher",
+  "publisher": "Salvador",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "27.0.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 50100,
@@ -25,8 +25,6 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "16.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+  "runtime": "15.2",
+  "features": ["TranslationFile"]
 }
