@@ -4,7 +4,7 @@ permissionset 50100 "M25013Permissions"
     Assignable = true;
 
     Permissions =
-        report "Sales Invoice Report" = X,
+        report "PropioReport" = X,
         tabledata "Sales Invoice Header" = R,
         tabledata "Sales Invoice Line" = R;
 }

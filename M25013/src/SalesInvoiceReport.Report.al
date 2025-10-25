@@ -1,4 +1,5 @@
-report 50100 "Sales Invoice Report"
+/* Este report es el generado por copylot, utilizar el llamado PropioReport
+ report 50100 "Sales Invoice Report"
 {
     Caption = 'Informe de Factura de Venta';
     UsageCategory = ReportsAndAnalysis;
@@ -66,3 +67,4 @@ report 50100 "Sales Invoice Report"
     var
         InvoiceNoFilterVar: Text;
 }
+ */

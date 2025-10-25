@@ -8,26 +8,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report PropioReport - ReportLabel NFact</note>
         </trans-unit>
-        <trans-unit id="Report 3495856913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Informe de Factura de Venta</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice Report - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Report 3495856913 - Control 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Filters</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice Report - Control Group - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Report 3495856913 - Control 1656747556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies Filter by Invoice No.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice Report - Control InvoiceNoFilter - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Report 3495856913 - Control 1656747556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Invoice No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice Report - Control InvoiceNoFilter - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PermissionSet 1395241364 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>M25013ExtPermissions</source>
           <note from="Developer" annotates="general" priority="2"></note>
